@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="btn_camera_on" data-name="btn_camera on" transform="translate(-156 -526)">
+    <g id="Group_571" data-name="Group 571" transform="translate(-150 -3)">
+      <circle id="Ellipse_276" data-name="Ellipse 276" cx="24" cy="24" r="24" transform="translate(306 529)" fill="#2592f2"/>
+      <g id="Iconly_Bold_Camera" data-name="Iconly/Bold/Camera" transform="translate(320 544)">
+        <g id="Camera" transform="translate(0)">
+          <path id="Camera-2" data-name="Camera" d="M15.64,18H4.36A4.362,4.362,0,0,1,0,13.645V7.711A4.362,4.362,0,0,1,4.36,3.356a.2.2,0,0,0,.191-.12l.059-.12.083-.175c.261-.55.557-1.173.737-1.533A2.433,2.433,0,0,1,7.64,0h4.71a2.44,2.44,0,0,1,2.22,1.408c.157.315.4.82.627,1.308l.142.3.1.22a.225.225,0,0,0,.2.12A4.362,4.362,0,0,1,20,7.711v5.934A4.362,4.362,0,0,1,15.64,18ZM10,6.4A3.922,3.922,0,0,0,7.21,7.562a3.867,3.867,0,0,0-1.14,2.767A3.924,3.924,0,0,0,10,14.254a3.9,3.9,0,0,0,2.77-1.148,3.915,3.915,0,0,0,.01-5.554A3.9,3.9,0,0,0,10,6.4Zm5.61-.239a.9.9,0,1,0,.911.909A.906.906,0,0,0,15.61,6.163ZM10,12.756a2.423,2.423,0,0,1-2.43-2.427v-.01a2.337,2.337,0,0,1,.7-1.7A2.43,2.43,0,1,1,10,12.756Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Iconly_Light_Video" data-name="Iconly/Light/Video" transform="translate(171 543)">
+      <g id="Video" transform="translate(-0.75 -0.75)">
+        <path id="Stroke_1" data-name="Stroke 1" d="M13.266,10.37a3.272,3.272,0,0,1-3.53,3.4H3.519A3.265,3.265,0,0,1,0,10.37V3.41A3.275,3.275,0,0,1,3.53,0H9.736a3.28,3.28,0,0,1,3.53,3.41Z" transform="translate(0.75 0.75)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M0,3.582,4.1.228a1,1,0,0,1,1.637.777V7.877A1,1,0,0,1,4.1,8.654L0,5.3" transform="translate(14.016 3.194)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

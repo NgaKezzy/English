@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+	<g id="btn_taophong" transform="translate(-267 -221)">
+		<g id="Button_Icon_" data-name="Button / Icon " transform="translate(271 225)">
+			<g id="Base" fill="#04d076" stroke="#fff" stroke-miterlimit="10" stroke-width="4">
+				<circle cx="26" cy="26" r="26" stroke="none" />
+				<circle cx="26" cy="26" r="28" fill="none" />
+			</g>
+		</g>
+		<line id="Line_12" data-name="Line 12" y1="20" transform="translate(297 241)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5" />
+		<line id="Line_13" data-name="Line 13" y1="20" transform="translate(307 251) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="1.5" />
+	</g>
+</svg>

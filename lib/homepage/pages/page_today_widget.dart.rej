@@ -1,0 +1,103 @@
+diff a/lib/homepage/pages/page_today_widget.dart b/lib/homepage/pages/page_today_widget.dart	(rejected hunks)
+@@ -531,53 +531,56 @@
+                   ? Container(
+                       margin: const EdgeInsets.only(left: 16),
+                       height: MediaQuery.of(context).size.width / 0.965,
+-                      child: Column(
+-                        crossAxisAlignment: CrossAxisAlignment.start,
+-                        children: [
+-                          SizedBox(
+-                            height: 18,
+-                          ),
+-                          Text(
+-                            S.of(context).LatestUpdates,
+-                            style: TextStyle(
+-                                color: themeProvider.mode == ThemeMode.dark
+-                                    ? Colors.white
+-                                    : Colors.black,
+-                                fontSize: 18,
+-                                fontWeight: FontWeight.w700,
+-                                fontStyle: FontStyle.normal),
+-                          ),
+-                          SizedBox(
+-                            height: 18,
+-                          ),
+-                          Container(
+-                            height:
+-                                (MediaQuery.of(context).size.width / 0.9375) *
+-                                    0.82,
+-                            child: GridView.builder(
+-                              controller: _controllerNewVideo,
+-                              physics: const BouncingScrollPhysics(),
+-                              gridDelegate:
+-                                  SliverGridDelegateWithMaxCrossAxisExtent(
+-                                maxCrossAxisExtent:
+-                                    MediaQuery.of(context).size.width / 0.1,
+-                                childAspectRatio: 1.1,
+-                                crossAxisSpacing: 5,
+-                                mainAxisSpacing: 15,
++                      child: SingleChildScrollView(
++                        child: Column(
++                          crossAxisAlignment: CrossAxisAlignment.start,
++                          children: [
++                            SizedBox(
++                              height: 18,
++                            ),
++                            Text(
++                              S.of(context).LatestUpdates,
++                              style: TextStyle(
++                                  color: themeProvider.mode == ThemeMode.dark
++                                      ? Colors.white
++                                      : Colors.black,
++                                  fontSize: 18,
++                                  fontWeight: FontWeight.w700,
++                                  fontStyle: FontStyle.normal),
++                            ),
++                            SizedBox(
++                              height: 18,
++                            ),
++                            Container(
++                              height:
++                                  (MediaQuery.of(context).size.width / 0.9375) *
++                                      0.82,
++                              child: GridView.builder(
++                                controller: _controllerNewVideo,
++                                physics: const BouncingScrollPhysics(),
++                                gridDelegate:
++                                    SliverGridDelegateWithMaxCrossAxisExtent(
++                                  maxCrossAxisExtent:
++                                      MediaQuery.of(context).size.width / 0.1,
++                                  childAspectRatio: 1.1,
++                                  crossAxisSpacing: 5,
++                                  mainAxisSpacing: 15,
++                                ),
++                                itemCount: widget.dataHome.listTalkNew.length,
++                                scrollDirection: Axis.horizontal,
++                                itemBuilder: (BuildContext ctx, index) {
++                                  return ItemSuggesHomeView(
++                                    title: S.of(context).LatestUpdates,
++                                    talkData:
++                                        widget.dataHome.listTalkNew[index],
++                                    type: 1,
++                                    userData: widget.userData,
++                                  );
++                                },
+                               ),
+-                              itemCount: widget.dataHome.listTalkNew.length,
+-                              scrollDirection: Axis.horizontal,
+-                              itemBuilder: (BuildContext ctx, index) {
+-                                return ItemSuggesHomeView(
+-                                  title: S.of(context).LatestUpdates,
+-                                  talkData: widget.dataHome.listTalkNew[index],
+-                                  type: 1,
+-                                  userData: widget.userData,
+-                                );
+-                              },
+                             ),
+-                          ),
+-                        ],
++                          ],
++                        ),
+                       ),
+                     )
+                   : const SizedBox(),

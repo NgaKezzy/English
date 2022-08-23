@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_user" transform="translate(112 36)">
+    <g id="Group_398" data-name="Group 398" transform="translate(-432 -76)">
+      <circle id="Ellipse_204" data-name="Ellipse 204" cx="12" cy="12" r="12" transform="translate(320 40)" fill="#e4e4e4"/>
+      <g id="Iconly_Bold_Profile" data-name="Iconly/Bold/Profile" transform="translate(327 45)">
+        <g id="Profile">
+          <path id="Profile-2" data-name="Profile" d="M0,11.6C0,9.7,2.534,9.222,5.5,9.222c2.983,0,5.5.493,5.5,2.4S8.466,14,5.5,14C2.518,14,0,13.507,0,11.6ZM1.861,3.7a3.64,3.64,0,1,1,7.279,0,3.64,3.64,0,1,1-7.279,0Z" fill="#c2bdc7"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

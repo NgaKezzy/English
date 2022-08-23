@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="346" height="120" viewBox="0 0 346 120">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0.011" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dbb072"/>
+      <stop offset="1" stop-color="#e4c999"/>
+    </linearGradient>
+    <filter id="Rectangle_953" x="0" y="0" width="346" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#dbb072" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="vip_bg" transform="translate(-7 -94)">
+    <g transform="matrix(1, 0, 0, 1, 7, 94)" filter="url(#Rectangle_953)">
+      <rect id="Rectangle_953-2" data-name="Rectangle 953" width="328" height="102" rx="10" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Path_690" data-name="Path 690" d="M2166.393,2750.648s68.1-60.737,160.449-15.2,166.924-.3,166.924-.3" transform="translate(-2150 -2587)" fill="none" stroke="#fff" stroke-width="1" opacity="0.19"/>
+    <path id="Path_691" data-name="Path 691" d="M2165.707,2751.1s68.787-61.189,161.135-15.648,166.838-.712,166.838-.712" transform="translate(-2290.058 -2461.333) rotate(-3)" fill="none" stroke="#fff" stroke-width="1" opacity="0.19"/>
+    <path id="Path_692" data-name="Path 692" d="M2164.034,2752.32s70.46-62.409,162.808-16.867,168.044-1.2,168.044-1.2" transform="matrix(0.995, -0.105, 0.105, 0.995, -2423.348, -2328.507)" fill="none" stroke="#fff" stroke-width="1" opacity="0.19"/>
+    <path id="Path_693" data-name="Path 693" d="M2161.991,2753.816s72.5-63.905,164.852-18.364,169.227-2.161,169.227-2.161" transform="translate(-2549.503 -2188.888) rotate(-9)" fill="none" stroke="#fff" stroke-width="1" opacity="0.19"/>
+    <path id="Path_694" data-name="Path 694" d="M2164.43,2752.827s70.064-62.916,162.413-17.375,171.094-2.77,171.094-2.77" transform="matrix(0.978, -0.208, 0.208, 0.978, -2668.178, -2042.858)" fill="none" stroke="#fff" stroke-width="1" opacity="0.19"/>
+  </g>
+</svg>

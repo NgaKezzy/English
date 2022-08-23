@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="btn_exit" transform="translate(-306 -529)">
+    <circle id="Ellipse_276" data-name="Ellipse 276" cx="24" cy="24" r="24" transform="translate(306 529)" fill="#e9c145"/>
+    <g id="Iconly_Light_Logout" data-name="Iconly/Light/Logout" transform="translate(318 541)">
+      <g id="Logout" transform="translate(1.228 2.229)">
+        <rect id="Rectangle_1437" data-name="Rectangle 1437" width="24" height="24" transform="translate(-1.228 -2.229)" fill="none"/>
+        <path id="Stroke_1" data-name="Stroke 1" d="M12.244,4.618V3.685A3.685,3.685,0,0,0,8.559,0H3.684A3.685,3.685,0,0,0,0,3.685v11.13A3.685,3.685,0,0,0,3.684,18.5H8.569a3.675,3.675,0,0,0,3.675-3.674v-.943" transform="translate(0.772 0.771)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M12.041.5H0" transform="translate(7.768 9.521)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+        <path id="Stroke_5" data-name="Stroke 5" d="M0,0,2.928,2.915,0,5.831" transform="translate(16.881 7.106)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5"/>
+      </g>
+    </g>
+  </g>
+</svg>

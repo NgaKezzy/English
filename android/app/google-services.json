@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "596635441672",
+    "project_id": "love-pho",
+    "storage_bucket": "love-pho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596635441672:android:1f58d4f4f4c085b1d20fbd",
+        "android_client_info": {
+          "package_name": "com.lovepho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596635441672-goo0rq54dgdab7dbb61978c8o5viv8ua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxJauBz0kN2DF79CqUIHxHSsqFGgyKY0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596635441672-goo0rq54dgdab7dbb61978c8o5viv8ua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "596635441672-4irdnv99rncgk1cd651p3ktvkheke29u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lovepho"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

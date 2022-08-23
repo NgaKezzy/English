@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="amthanh" transform="translate(-101 -258)">
+    <g id="Ellipse_220" data-name="Ellipse 220" transform="translate(101 258)" fill="#fff" stroke="#dedede" stroke-width="1">
+      <circle cx="18" cy="18" r="18" stroke="none"/>
+      <circle cx="18" cy="18" r="17.5" fill="none"/>
+    </g>
+    <g id="Group_423" data-name="Group 423" transform="translate(1)">
+      <path id="Path_678" data-name="Path 678" d="M40.6-1.683v5.8" transform="translate(70.404 275.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_683" data-name="Path 683" d="M40.6-1.683V10.708" transform="translate(73.404 271.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_685" data-name="Path 685" d="M40.6-1.683V10.708" transform="translate(79.404 271.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_686" data-name="Path 686" d="M40.6-1.683V10.708" transform="translate(82.404 271.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_687" data-name="Path 687" d="M40.6-1.683V2.552" transform="translate(85.404 275.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+      <path id="Path_684" data-name="Path 684" d="M40.6-1.683V17.859" transform="translate(76.404 268.183)" fill="none" stroke="#000" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

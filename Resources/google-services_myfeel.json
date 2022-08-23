@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397223572673",
+    "project_id": "myfeel-abdb1",
+    "storage_bucket": "myfeel-abdb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397223572673:android:c557307baa34d8a3e65040",
+        "android_client_info": {
+          "package_name": "me.myfeel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397223572673-2bqvgf2nj3lo89a0998ajd88u0vksiaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBar4hT-K0zvQR_QRkDGKlqxp7ut4ITVKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397223572673-2bqvgf2nj3lo89a0998ajd88u0vksiaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

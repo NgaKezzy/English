@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="btn_camera_off" transform="translate(-8671 -6049)">
+    <g id="Group_568" data-name="Group 568" transform="translate(8365 5520)">
+      <circle id="Ellipse_276" data-name="Ellipse 276" cx="24" cy="24" r="24" transform="translate(306 529)" fill="#aeaeae"/>
+      <g id="Iconly_Bold_Camera" data-name="Iconly/Bold/Camera" transform="translate(320 544)">
+        <g id="Camera" transform="translate(0)">
+          <path id="Camera-2" data-name="Camera" d="M15.64,18H4.36A4.362,4.362,0,0,1,0,13.645V7.711A4.362,4.362,0,0,1,4.36,3.356a.2.2,0,0,0,.191-.12l.059-.12.083-.175c.261-.55.557-1.173.737-1.533A2.433,2.433,0,0,1,7.64,0h4.71a2.44,2.44,0,0,1,2.22,1.408c.157.315.4.82.627,1.308l.142.3.1.22a.225.225,0,0,0,.2.12A4.362,4.362,0,0,1,20,7.711v5.934A4.362,4.362,0,0,1,15.64,18ZM10,6.4A3.922,3.922,0,0,0,7.21,7.562a3.867,3.867,0,0,0-1.14,2.767A3.924,3.924,0,0,0,10,14.254a3.9,3.9,0,0,0,2.77-1.148,3.915,3.915,0,0,0,.01-5.554A3.9,3.9,0,0,0,10,6.4Zm5.61-.239a.9.9,0,1,0,.911.909A.906.906,0,0,0,15.61,6.163ZM10,12.756a2.423,2.423,0,0,1-2.43-2.427v-.01a2.337,2.337,0,0,1,.7-1.7A2.43,2.43,0,1,1,10,12.756Z" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_570" data-name="Group 570" transform="translate(8679.235 6083.621)">
+      <g id="Video">
+        <path id="Stroke_1" data-name="Stroke 1" d="M20.143-5.243a3.264,3.264,0,0,1-2.3,1.089,2.968,2.968,0,0,1-.4-.008H11.224a3.264,3.264,0,0,1-3.512-3,3.375,3.375,0,0,1-.007-.4v-6.96a3.266,3.266,0,0,1,.83-2.329" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Stroke_1-2" data-name="Stroke 1" d="M13.832-17.938l-2.6.006h6.206a3.28,3.28,0,0,1,3.523,3.018,3.219,3.219,0,0,1,.008.393v5.96" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M20.972-11.906l4.1-3.354a1,1,0,0,1,1.408.134,1,1,0,0,1,.229.644v6.871A1,1,0,0,1,25.714-6.6a1,1,0,0,1-.643-.23l-4.1-3.353" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      </g>
+      <path id="Stroke_5" data-name="Stroke 5" d="M5.765-19.621,22.912-2.473" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

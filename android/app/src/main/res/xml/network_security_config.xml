@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+    <domain includeSubdomains="true">api.myfeel.me</domain>
+
+
+    <domain includeSubdomains="true">lovepho.me</domain>
+     <domain includeSubdomains="true">api.lovepho.me</domain>
+    <domain includeSubdomains="true">admin.lovepho.me</domain>
+        <domain includeSubdomains="true">firebaseapp.com</domain>
+
+         <domain includeSubdomains="true">phoenglish.com</domain>
+     <domain includeSubdomains="true">api.phoenglish.com</domain>
+    <domain includeSubdomains="true">admin.phoenglish.com</domain>
+
+
+
+
+    </domain-config>
+</network-security-config>

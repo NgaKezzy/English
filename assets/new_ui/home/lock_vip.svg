@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="26" viewBox="0 0 55 26">
+  <g id="Group_400" data-name="Group 400" transform="translate(-398 -271)">
+    <rect id="Rectangle_136" data-name="Rectangle 136" width="55" height="26" rx="5" transform="translate(398 271)" fill="rgba(0,0,0,0.5)"/>
+    <g id="Iconly_Light_Lock" data-name="Iconly/Light/Lock" transform="translate(402.542 276)">
+      <g id="Lock">
+        <path id="Stroke_1" data-name="Stroke 1" d="M7.6,5.582V3.793A3.8,3.8,0,0,0,0,3.776V5.582" transform="translate(2.544 0)" fill="none" stroke="#ff9800" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Stroke_3" data-name="Stroke 3" d="M9.527,9.894H3.16A3.16,3.16,0,0,1,0,6.734V3.16A3.16,3.16,0,0,1,3.16,0H9.527a3.16,3.16,0,0,1,3.16,3.16V6.734A3.16,3.16,0,0,1,9.527,9.894Z" transform="translate(0 5.522)" fill="none" stroke="#ff9800" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+        <path id="Stroke_5" data-name="Stroke 5" d="M.5,0V1.851" transform="translate(5.844 9.544)" fill="none" stroke="#ff9800" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+    </g>
+    <text id="VIP" transform="translate(425 288)" fill="#ff9800" font-size="11" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">VIP</tspan></text>
+  </g>
+</svg>

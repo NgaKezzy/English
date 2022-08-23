@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="28" viewBox="0 0 60 28">
+  <g id="btn_Drill_on" transform="translate(-5873 -878)">
+    <rect id="Rectangle_1007" data-name="Rectangle 1007" width="60" height="28" rx="14" transform="translate(5873 878)" fill="#e4e4e4"/>
+    <rect id="Rectangle_1008" data-name="Rectangle 1008" width="40" height="28" rx="14" transform="translate(5893 878)" fill="#53b451"/>
+    <text id="Drill" transform="translate(5913 897)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="-12.055" y="0">Drill</tspan></text>
+  </g>
+</svg>

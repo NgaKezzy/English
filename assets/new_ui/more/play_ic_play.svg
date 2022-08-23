@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="62" viewBox="0 0 62 62">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,23.464H28.6V0H0Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="play_ic_play" transform="translate(-149 -545)">
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="31" cy="31" r="31" transform="translate(149 545)" fill="rgba(0,0,0,0.5)"/>
+    <g id="Group_5" data-name="Group 5" transform="translate(194.784 561.7) rotate(90)">
+      <path id="Clip_4-2" data-name="Clip 4" d="M0,23.464H28.6V0H0Z" transform="translate(0 0)" fill="none"/>
+      <g id="Group_5-2" data-name="Group 5" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Fill_3" data-name="Fill 3" d="M28.6,21.6a1.877,1.877,0,0,0-.286-.995L15.88.873a1.865,1.865,0,0,0-3.158,0L.286,20.607a1.868,1.868,0,0,0,1.579,2.86H26.737A1.87,1.87,0,0,0,28.6,21.6" transform="translate(0 -0.002)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

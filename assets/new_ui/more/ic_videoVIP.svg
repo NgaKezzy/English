@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="26" viewBox="0 0 32 26">
+  <g id="ic_videoVIP" transform="translate(-231.5 -150)">
+    <g id="Iconly_Bulk_Video" data-name="Iconly/Bulk/Video" transform="translate(231.5 150)">
+      <g id="Video">
+        <path id="Fill_1" data-name="Fill 1" d="M6.363.375A2.312,2.312,0,0,0,4.029.264L1.51,1.561A2.812,2.812,0,0,0,0,4.084V14.2a2.818,2.818,0,0,0,1.51,2.525l2.518,1.3a2.3,2.3,0,0,0,1.073.266,2.344,2.344,0,0,0,1.263-.375A2.488,2.488,0,0,0,7.5,15.8V2.488A2.493,2.493,0,0,0,6.363.375" transform="translate(24.5 3.859)" fill="#6b82f2" opacity="0.4"/>
+        <path id="Fill_3" data-name="Fill 3" d="M16.839,26H6.992A6.712,6.712,0,0,1,0,18.961V7.039A6.711,6.711,0,0,1,6.992,0h9.846a6.711,6.711,0,0,1,6.992,7.039V18.961A6.712,6.712,0,0,1,16.839,26" fill="#6b82f2"/>
+      </g>
+    </g>
+    <text id="VIP" transform="translate(232 169)" fill="#e7fe20" font-size="16" font-family="SVN-Harabaras" letter-spacing="0.04em"><tspan x="0" y="0">VIP</tspan></text>
+  </g>
+</svg>
